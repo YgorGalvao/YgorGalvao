@@ -1,4 +1,4 @@
-### Ola eu seu Ygor, estudando 2° semestre em Analise de Desenvolvimento d e Sistema
+### Ola eu seu Ygor web desenvolvedor
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/galvao_ygor_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygor-galvao-784055326/)
